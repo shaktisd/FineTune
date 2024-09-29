@@ -1,3 +1,4 @@
+```
 1.	For Setting up Ubuntu: Turn on Windows System for Linux from the features
 2.	Open powershell and type “wsl --install”
 3.	Navigate to \\wsl.localhost\Ubuntu\home\asus and create a folder to work on.
@@ -31,3 +32,4 @@ b.	sudo apt install build-essential
 17.	This would be used to make the ollama model
 18.	Next, install the Ollama library using the command on terminal “curl -fsSL https://ollama.com/install.sh | sh”
 19.	Create the Modelfile and run the ollama command to create the model using the Modelfile
+```
